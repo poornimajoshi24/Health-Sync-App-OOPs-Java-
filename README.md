@@ -8,7 +8,7 @@ displays **health reports** using a GUI built with **AWT and Swing**.
 
 ---
 
-##  Feature
+##  Features
 
 -  Daily exercise tracking  
 -  Medicine intake management  
