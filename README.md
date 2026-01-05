@@ -37,7 +37,7 @@ displays **health reports** using a GUI built with **AWT and Swing**.
 - Polymorphism  
 - Abstraction  
 
--
+---
 
 ##  Project Structure
 
